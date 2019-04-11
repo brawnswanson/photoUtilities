@@ -13,6 +13,7 @@
 		C41071FA225E8F3100727BB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C41071F9225E8F3100727BB1 /* Assets.xcassets */; };
 		C41071FD225E8F3100727BB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C41071FB225E8F3100727BB1 /* LaunchScreen.storyboard */; };
 		C44B3551225F007900E85631 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = C44B3550225F007900E85631 /* LICENSE.txt */; };
+		C44B3553225F017800E85631 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = C44B3552225F017800E85631 /* README.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C41071FC225E8F3100727BB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C41071FE225E8F3100727BB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C44B3550225F007900E85631 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		C44B3552225F017800E85631 /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C41071FB225E8F3100727BB1 /* LaunchScreen.storyboard */,
 				C41071FE225E8F3100727BB1 /* Info.plist */,
 				C44B3550225F007900E85631 /* LICENSE.txt */,
+				C44B3552225F017800E85631 /* README.txt */,
 			);
 			path = photoUtilities;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 				C41071FD225E8F3100727BB1 /* LaunchScreen.storyboard in Resources */,
 				C41071FA225E8F3100727BB1 /* Assets.xcassets in Resources */,
 				C41071F8225E8F3000727BB1 /* Main.storyboard in Resources */,
+				C44B3553225F017800E85631 /* README.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
